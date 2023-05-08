@@ -23,7 +23,7 @@
 <br/>  
 
 
-## Full Stack Developer
+## Full Stack Developer - Python and Javascript(React&JQuery)
 
 - 🌏 I am in London  
   
