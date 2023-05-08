@@ -23,7 +23,7 @@
 <br/>  
 
 
-## Full Stack Developer - Python and Javascript(React&JQuery)
+## Full Stack Developer - Python(Flask&Django) and Javascript(React&JQuery)
 
 - 🌏 I am in London  
   
