@@ -28,7 +28,7 @@
 - 🌏 I am in London  
   
 
-- **🔭 I’m currently working on [AirGo](https://github.com/mihayounas/air-go)**  
+- **🔭 I’m currently working for [Vell Magazine]([https://vellmagazine.com/])**  
   
 
 - **🖥️  See my portfolio at https://mihayounas.github.io/mihaelayounas-resume/**  
