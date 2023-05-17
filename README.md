@@ -28,7 +28,7 @@
 - 🌏 I am in London  
   
 
-- **🔭 I’m currently working for [Vell Magazine]([https://vellmagazine.com/])**  
+- **🔭 I’m currently working for [Vell Magazine](https://vellmagazine.com/)**  
   
 
 - **🖥️  See my portfolio at https://mihayounas.github.io/mihaelayounas-resume/**  
