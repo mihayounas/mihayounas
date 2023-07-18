@@ -35,7 +35,7 @@
 - **🔭 I’m currently working for [Vell Magazine](https://vellmagazine.com/)**  
   
 
-- **🖥️  See my portfolio at [My Website](http://mihaela-younas.com/)**  
+- **🖥️  See my portfolio on [My Website](http://mihaela-younas.com/)**  
   
 
 - **You can contact me at: mihaelayounas55@gmail.com**  
