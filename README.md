@@ -32,7 +32,7 @@
 - 🌏 I am in London  
   
 
-- **🔭 I’m currently working for [Vell Magazine](https://vellmagazine.com/)**  
+- **🔭 I’m currently working for [Vell Magazine](https://vellmagazine.com/)** / VMODEL app backend 
   
 
 - **🖥️  See my portfolio on [My 3D Website](http://mihaela-younas.com/)**  
