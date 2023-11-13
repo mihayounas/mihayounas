@@ -27,7 +27,7 @@
 <br/>  
 
 
-## Full Stack Developer - Python(Flask&Django) and Javascript(React&JQuery), Html, Css, Bootstrap
+## Full Stack Web Developer - Python(Flask&Django) and Javascript(React&JQuery), Html, Css, Bootstrap, Firebase
 
 - 🌏 I am in London  
   
