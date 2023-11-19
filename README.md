@@ -35,10 +35,10 @@
 - 🔭 I’m currently working for GabirelAI /Backend Django Devloper
   
 
-- 🖥️  See my portfolio on [My 3D Website](http://mihaela-younas.com/)**  
+- 🖥️  See my portfolio on [My 3D Website](http://mihaela-younas.com/)
   
 
-- You can contact me at: mihaelayounas55@gmail.com**  
+- You can contact me at: mihaelayounas55@gmail.com  
 
 
 <br/>  
