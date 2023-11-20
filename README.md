@@ -85,7 +85,7 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=mihayounas&&style=flat-square)  
+![Profile views](https://komarev.com/ghpvc/?username=mihayounas&&style=flat-square)  
   
 
 <br/>  
