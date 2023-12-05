@@ -30,7 +30,7 @@
 - 🌏 I am in London  
   
 
-- 🔭 I’m currently working for GabirelAI /Backend Django Devloper
+- 🔭 I’m currently learning Ruby / Ruby on Rails .
   
 
 - 🖥️  See my portfolio on [My 3D Website](http://mihaela-younas.com/)
