@@ -19,7 +19,7 @@
   
 
 <h2 align="center"> Glad to see you here!  <h2/>
-<div align="center">I'm  Mihaela, the FullStack Developer who's ready to take your Web Development to new heights! With my passion for coding and innovative thinking,I will bring your ideas to life and create a UX that will keep your customers coming back for more. Buckle up and get ready to launch your web development projects with me! Sky is the Limit ! 🚀</div>
+<div align="center">I'm  Mihaela, the Full Stack Developer who's ready to take your Web Development to new heights! With my passion for coding and innovative thinking,I will bring your ideas to life and create a UX that will keep your customers coming back for more. Buckle up and get ready to launch your web development projects with me! Sky is the Limit ! 🚀</div>
   
 
 <br/>  
