@@ -27,13 +27,13 @@
 ## Full Stack Web Developer - Python(Flask & Django) , Ruby(Ruby on Rails) and Javascript(React&JQuery), Html, Css, Bootstrap, Firebase
 
 
-- 🌏 I am in London  
+- 🌏 I am in London  :)
   
 
 - 🔭 I’m currently learning Ruby / Ruby on Rails .
   
 
-- 🖥️  See my portfolio on [My 3D Website](http://mihaela-younas.com/) - please take your time to scroll for the best experienece!
+- 🖥️  See my portfolio on [My 3D Website](http://mihaela-younas.com/) - please take your time to look around for the best experienece!
   
 
 - You can contact me at: mihaelayounas55@gmail.com  
