@@ -27,7 +27,7 @@
 ## Full Stack Web Developer - Python(Flask & Django) , Ruby(Ruby on Rails) and Javascript(React&JQuery), Html, Css, Bootstrap, Firebase
 
 
-- 🌏 I am in London  :)
+- 🌏 I am in London
   
 
 - 🔭 I’m currently learning Ruby / Ruby on Rails .
