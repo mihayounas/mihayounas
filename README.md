@@ -27,7 +27,6 @@
 
 
 - 🌏 I am in London
-  
 
 - 🔭 I’m currently learning Ruby / Ruby on Rails .
   
@@ -39,7 +38,6 @@
 
 
 <br/>  
-
 
 ## Skills 
 <div align="center"> 
