@@ -31,7 +31,7 @@
 - 🔭 I’m currently learning Ruby / Ruby on Rails .
   
 
-- 🖥️  See my portfolio on [My 3D Website](http://mihaela-younas.com/) - please take your time to look around for the best experienece!
+- 🖥️  See my portfolio on [My 3D Website](http://mihaela-younas.com/) - please take your time to look around for the best experience!
   
 
 - You can contact me at: mihaelayounas55@gmail.com  
