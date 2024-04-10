@@ -11,7 +11,6 @@
 <a href="https://medium.com/@mihaelayounas55" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
- :)
  <a href="https://www.codu.co/mihayounas-095" target="_blank">
   <img src="https://www.codu.co/_next/image?url=%2Fimages%2Fcodu.png&w=1920&q=75" alt="codu" style="height: 20px; width: 50px; margin-bottom: 10px;" />
 </a>
