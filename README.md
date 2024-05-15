@@ -15,7 +15,6 @@
   <img src="https://www.codu.co/_next/image?url=%2Fimages%2Fcodu.png&w=1920&q=75" alt="codu" style="height: 20px; width: 50px; margin-bottom: 10px;" />
 </a>
 </div>  
-:)
 <h2 align="center"> Glad to see you here!  <h2/>
 <div align="center">I'm  Mihaela, the Full Stack Developer who's ready to take your Web Development to new heights! With my passion for coding and innovative thinking,I will bring your ideas to life and create a UX that will keep your customers coming back for more. Buckle up and get ready to launch your web development projects with me! Sky Is The Limit ! 🚀</div>
   
